@@ -3,9 +3,9 @@
 ### Github stats
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=KMDanilo&show_icons=true&theme=nord&border_color=9e8f5c00" alt="Estatísticas do GitHub de Danilo" height="150px" />
+  <img src="https://github-readme-stats.vercel.app/api?username=KMDanilo&show_icons=true&theme=nord&border_color=9e8f5c00&v=1" alt="Estatísticas do GitHub de Danilo" height="150px" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KMDanilo&layout=compact&theme=nord&border_color=9e8f5c00" alt="Linguagens mais usadas" height="150px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KMDanilo&layout=compact&theme=nord&border_color=9e8f5c00&v=2" alt="Linguagens mais usadas" height="150px" />
 </div>
 
 ### Contact me
