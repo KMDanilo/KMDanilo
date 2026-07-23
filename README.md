@@ -3,9 +3,9 @@
 ### Github stats
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=KMDanilo&show_icons=true&theme=nord&hide_border=true&timestamp=12345" alt="GitHub Stats" height="150px" />
+  <img src="https://github-readme-stats-seven-mocha-12.vercel.app/api?username=KMDanilo&show_icons=true&theme=nord&hide_border=true" alt="GitHub Stats" height="150px" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KMDanilo&layout=compact&theme=nord&hide_border=true&timestamp=12345" alt="Top Languages" height="150px" />
+  <img src="https://github-readme-stats-seven-mocha-12.vercel.app/api/top-langs/?username=KMDanilo&layout=compact&theme=nord&hide_border=true" alt="Top Languages" height="150px" />
 </div>
 
 ### Contact me
